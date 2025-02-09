@@ -1,6 +1,5 @@
 <h1 align="center" id="title">Bird-Call-Audio-Identification-using-Vision-Transfomer</h1>
 
-<p align="center"><img src="" alt="project-image"></p>
 
 <p id="description">Southern Africa is home to nearly 960 bird species many of which are unique to the region. Monitoring bird populations is essential for conservation and assessing ecosystem health but traditional methods rely heavily on human observation.</p>
   
