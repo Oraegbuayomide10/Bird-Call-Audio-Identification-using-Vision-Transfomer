@@ -7,4 +7,6 @@
 
 <h2>Project Screenshots:</h2>
 
+![logo](./audio_plot.png)
+
 
