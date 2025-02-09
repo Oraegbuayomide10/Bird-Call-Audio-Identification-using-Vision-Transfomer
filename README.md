@@ -11,6 +11,6 @@ The objective of this competition was to develop a machine learning model that c
 
 <h2>Project Screenshots:</h2>
 
-![logo](./images/audio_plot.png)
+![logo](./images_for_readme/audio_plot.png)
 
 
