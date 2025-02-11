@@ -66,6 +66,7 @@ My approach was to use the <b>Timm's Pytorch Library</b> without the need to mak
 
 
 <h3>Performance Comparison</h3>
+The evaluation metric for the challenge is Log Loss.
 
 <h4> </h4>
 One of the Top winner score
